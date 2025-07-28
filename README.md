@@ -131,7 +131,7 @@ app/
 
 | Login/Singup | Client Dashboard| Ticket 1 |
 |------------------|------------------|----------------|
-| ![dashboard](./public/1.png) | ![form](./public/2.png) | ![status](./public/3.png) |
+| ![dashboard](./public/login .png) | ![form](./public/client dashboard  .png) | ![status](./public/client ticket 1 .png) |
 
 
 
@@ -146,9 +146,9 @@ app/
 
 
 
-| Ai Technician Selection  |  Technician Dashboard | Ticket Respond |
+| Ai Technician Selection  | | |
 |------------------|------------------|----------------|
-| ![dashboard](./public/4.png) | ![form](./public/5.png) | ![status](./public/6.png) |
+| ![dashboard](./public/4.png) 
 
 
 
