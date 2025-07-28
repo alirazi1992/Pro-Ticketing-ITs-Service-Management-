@@ -53,7 +53,7 @@ This system was built to simplify the process of reporting, ticketing, and resol
 | Forms & State  | React Hook Form, Yup, Context API                    |
 | UI/UX          | Lucide React Icons, Modern Farsi Design              |
 | Fonts          | IRANYekan (locally hosted)                           |
-| Deployment     | Ready for deployment on Vercel, Netlify, or others  |
+
 
   
 
