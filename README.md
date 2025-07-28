@@ -131,7 +131,7 @@ app/
 
 | Login/Singup | Client Dashboard| Ticket 1 |
 |------------------|------------------|----------------|
-| ![dashboard](.[/public/login .png](https://github.com/alirazi1992/Pro-Ticketing-ITs-Service-Management-/blob/main/public/login%20.png)) | ![form](./public/client dashboard  .png) | ![status](./public/client ticket 1 .png) |
+| ![Login](./public/login.png)  | ![form](./public/client dashboard  .png) | ![status](./public/client ticket 1 .png) |
 
 
 
