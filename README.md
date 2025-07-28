@@ -1,30 +1,139 @@
-# Farsi ticketing dashboard
+# IT Service Managment System (Farsi RTL) 
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+A full functional, RTL-compatible ticketing dashboard designed for technical support teams, end-users, and IT administrators. 
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/ali-razi-s-projects/v0-farsi-ticketing-dashboard)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/1qFnplQZ3uQ)
+## 🎯 Project Objective
 
-## Overview
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
+This system was built to simplify the process of reporting, ticketing, and resolving technical issues within an organization. It supports role0-based dashboards for clients, technicians, and admins-all presented in a modern, mobile-friendly Farsi interface. 
 
-## Deployment
+----
 
-Your project is live at:
+## 🧩 Key Features
 
-**[https://vercel.com/ali-razi-s-projects/v0-farsi-ticketing-dashboard](https://vercel.com/ali-razi-s-projects/v0-farsi-ticketing-dashboard)**
+### 🎫 Ticketing Module 
 
-## Build your app
+- Two-step dynamic ticket submission form
+- Category and  suncategory selection
+- Priority assignment and file upload support
+- Status tracking and user feedback
 
-Continue building your app on:
+### 👨‍💻 Client Dashboard
 
-**[https://v0.dev/chat/projects/1qFnplQZ3uQ](https://v0.dev/chat/projects/1qFnplQZ3uQ)**
+- View submitted tickets
+- Filter by status (waiting, in progress, answered)
+- View technician responses
+- Toggle Theme (light/dark) and language
 
-## How It Works
 
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+### 🛠️ Technician Dashboard
+
+- Manage categories and subcategories
+- Assign tickets to technicians
+- Configure auto-assignment rules
+- View ticket analytics
+
+### ⚙️ Additional Features 
+
+- Full RTL (Right-to-Left)
+- Custom Persian font (IranYekan)
+- Responsive design for all devices
+- Theme tigglking (light/datk)
+- Role-based context and authentication
+- Built with scalable component structer
+
+  ---
+
+  ## 🛠️ Tech Stack
+
+| Area           | Tools & Frameworks                                   |
+|----------------|------------------------------------------------------|
+| Frontend       | Next.js 14 (App Router), React 18, TypeScript        |
+| Styling        | Tailwind CSS, ShadCN UI, Radix UI                    |
+| Forms & State  | React Hook Form, Yup, Context API                    |
+| UI/UX          | Lucide React Icons, Modern Farsi Design              |
+| Fonts          | IRANYekan (locally hosted)                           |
+| Deployment     | Ready for deployment on Vercel, Netlify, or others  |
+
+  
+
+---
+
+## 🚀 Getting Started
+
+# 1. Clone the repository
+
+```bash
+
+git clone https://github.com/alirazi1992/Pro-Ticketing-ITs-Service-Management-.git
+cd Pro-Ticketing-ITs-Service-Management-
+```
+
+# 2 Install dependencies
+
+```bash
+npm install 
+```
+
+# 3.Run the development server 
+
+```bash
+npm run dev
+
+```
+Then open:
+
+http://localhost:3000
+
+----
+
+# 🔐 Role-Based Access & Routes
+
+| Role           | Dashboard Path       |
+|----------------|----------------------|
+| Client         | `/client/dashboard`  |
+| Technician     | `/engineer/dashboar` |
+| Admin          | `/admin/dashboardI`  |
+
+
+----
+
+# 📁 Project Structure
+
+app/
+
+├── client/
+
+├── engineer/
+
+├── admin/
+
+├── components/
+
+│   ├── ui/
+│   
+    ├── forms/
+│  
+    └── shared/
+
+├── lib/
+
+├── public/
+
+├── styles/
+
+└── types/
+
+----
+
+# 📷 Screenshots
+
+
+----
+
+# 👨‍💻 Author
+
+-  Developer : **Ali Razi**
+-  Contact: https://www.linkedin.com/in/alirazi1992
+
+
