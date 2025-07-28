@@ -110,7 +110,8 @@ app/
 
 ├── components/
 
-│   ├── ui/
+│  
+    ├── ui/
 │   
     ├── forms/
 │  
@@ -127,6 +128,33 @@ app/
 ----
 
 # 📷 Screenshots
+
+| Login/Singup | Client Dashboard| Ticket 1 |
+|------------------|------------------|----------------|
+| ![dashboard](./public/1.png) | ![form](./public/2.png) | ![status](./public/3.png) |
+
+
+
+| Tikcet 2  |  Technician Dashboard | Ticket Respond |
+|------------------|------------------|----------------|
+| ![dashboard](./public/4.png) | ![form](./public/5.png) | ![status](./public/6.png) |
+
+
+| Admin Dashboard | Technicain Assignment| Category Sortation |
+|------------------|------------------|----------------|
+| ![dashboard](./public/1.png) | ![form](./public/2.png) | ![status](./public/3.png) |
+
+
+
+| Ai Technician Selection  |  Technician Dashboard | Ticket Respond |
+|------------------|------------------|----------------|
+| ![dashboard](./public/4.png) | ![form](./public/5.png) | ![status](./public/6.png) |
+
+
+
+
+
+
 
 
 ----
