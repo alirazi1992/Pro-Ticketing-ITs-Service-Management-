@@ -129,33 +129,21 @@ app/
 
 # 📷 Screenshots
 
-| Login/Singup | Client Dashboard| Ticket 1 |
-|------------------|------------------|----------------|
-|| ![Login](./public/login.png) | ![Client Dashboard](./public/client-dashboard.png) | ![Ticket 1](./public/client-ticket-1.png) |
- | ![form](./public/client dashboard  .png) | ![status](./public/client ticket 1 .png) |
+| Login/Signup | Client Dashboard | Ticket View 1 |
+|--------------|------------------|---------------|
+| ![Login](./public/login.png) | ![Client Dashboard](./public/clientdashboard.png) | ![Ticket 1](./public/clientticket1.png) |
 
+| Ticket View 2 | Technician Dashboard | Ticket Response |
+|---------------|----------------------|-----------------|
+| ![Ticket 2](./public/clientticket2.png) | ![Technician Dashboard](./public/techdashbnoard.png) | ![Response](./public/ticketrespond.png) |
 
+| Admin Dashboard | Technician Assignment | Category Assignment |
+|-----------------|------------------------|----------------------|
+| ![Admin](./public/Admindashboard.png) | ![Technician Assignment](./public/TechnicianAssignment.png) | ![Category](./public/categoryassigment.png) |
 
-| Tikcet 2  |  Technician Dashboard | Ticket Respond |
-|------------------|------------------|----------------|
-| ![dashboard](./public/4.png) | ![form](./public/5.png) | ![status](./public/6.png) |
-
-
-| Admin Dashboard | Technicain Assignment| Category Sortation |
-|------------------|------------------|----------------|
-| ![dashboard](./public/1.png) | ![form](./public/2.png) | ![status](./public/3.png) |
-
-
-
-| Ai Technician Selection  | | |
-|------------------|------------------|----------------|
-| ![dashboard](./public/4.png) 
-
-
-
-
-
-
+| AI Technician Auto-Selection | |
+|-----------------------------|--|
+| ![AI Selection](./public/AITechnicianSelection.png) | |
 
 
 ----
