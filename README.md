@@ -131,7 +131,8 @@ app/
 
 | Login/Singup | Client Dashboard| Ticket 1 |
 |------------------|------------------|----------------|
-| ![Login](./public/login.png)  | ![form](./public/client dashboard  .png) | ![status](./public/client ticket 1 .png) |
+|| ![Login](./public/login.png) | ![Client Dashboard](./public/client-dashboard.png) | ![Ticket 1](./public/client-ticket-1.png) |
+ | ![form](./public/client dashboard  .png) | ![status](./public/client ticket 1 .png) |
 
 
 
